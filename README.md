@@ -16,7 +16,7 @@ The data we're analyzing comes from a jupyter notebook that we'll create and imp
 
 * [Amazon Lambda](https://aws.amazon.com/lambda/)  - an AWS service for to run code without provisioning or managing infrastructure. Simply write and upload code as a .zip file or container image.
 
-* [jupyter] - (https://github.com/jupyter/notebook) - Helps us run our code and get the information we need from the data listed in csv files.
+* [jupyter](https://github.com/jupyter/notebook) - Helps us run our code and get the information we need from the data listed in csv files.
 
 
 ## Installation Guide
