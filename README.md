@@ -21,7 +21,7 @@ The data we're analyzing comes from a jupyter notebook that we'll create and imp
 
 ## Installation Guide
 
-In order for us to get the data we need we must import pandas, plots and the csv files we want to observe.
+In order for us to get the data we need we must import proper libraries.
 
 ```python
 ### Required Libraries ###
@@ -33,11 +33,12 @@ from dateutil.relativedelta import relativedelta
 ---
 ## Usage
 * RoboAdvisor in action
-
+* [Loom Video Link](https://www.loom.com/share/f13ab60d8ce64abd92feeea001cb1dee)  - Video of bot working through errors.
 
 [![AWS.gif](https://i.postimg.cc/bNqYDtDZ/AWS.gif)](https://postimg.cc/t7mG87zb)
 
 [![Screen-Shot-2022-04-17-at-11-38-17-PM.png](https://i.postimg.cc/hPR7zPTX/Screen-Shot-2022-04-17-at-11-38-17-PM.png)](https://postimg.cc/yWnN2KfK)
+
 
 ---
 
